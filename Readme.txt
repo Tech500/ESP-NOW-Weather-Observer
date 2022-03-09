@@ -5,9 +5,9 @@ Forum, Adafruit.com Forum, ESP8266 Forum, Github.com, Random Nerd Tutorials Foru
 back in the Fall of 2012; with gifted of a "Arduino Uno."  Thank you to all the people that have helped
 with the project!
 
-http://weather-3.ddns.net/Weather  Project web site servered from ESP32.
+[Project web site servered from ESP32](http://weather-3.ddns.net/Weather)  
 
-https://observations-weather.000webhostapp.com/index.php  Project servered from hosted, domain web site.
+[Project servered from hosted, domain web site](https://observations-weather.000webhostapp.com/index.php)  
 
 "CameraRainGauge.ino" was developed to provide a data logger accessible over the Internet, provide
 capability to manage files via file transfer protocol (FTP), over-the-air (OTA) firmware updates, two
