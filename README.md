@@ -7,7 +7,7 @@ Both ESP32 boards used in this project were from Amazon, HiLetGo ESP32 (Node32s 
 
 Sender current measurement was done measuring the voltage drop accross a Dupont Jumper of 1.19 ohms and measuring the voltage beween ends of this Dupont jumper wire.  Voltage was observered on the 5 volt input pin of the ESP32 sender.
 
-Awake current ~ 85 mA  (BME280 active, WiFi active, ADC and Bluetooth not used.  Active time 3.8 seconds
+Awake current ~ 72 mA  (BME280 active, WiFi active, ADC and Bluetooth not used.  Active time 3.8 seconds
 
 Sleep current ~ 2.6 mA  (BME280 in sleep mode, ADC off, WiFi off, and Bluetooth off)  Sleep time 15 minutes.
 
