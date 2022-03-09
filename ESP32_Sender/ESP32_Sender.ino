@@ -28,8 +28,8 @@ const char* APssid = "ESP32-Access-Point";
 const char* APpassword = "123456789";
 
 // Replace with your network details
-const char* ssid = "R2D2";
-const char* password = "sissy4357";
+const char* ssid = "xxxx";
+const char* password = "xxxxxxxxx";
 
 //setting the addresses
 IPAddress staticIP(10, 0, 0, 200);
@@ -52,7 +52,7 @@ uint8_t remoteMac[] = {0x30, 0xAE, 0xA4, 0xDF, 0xB3, 0x6C};
 #define CHAN_AP 9
 
 // How many minutes the ESP should sleep
-#define DEEP_SLEEP_TIME 2 //Minutes
+#define DEEP_SLEEP_TIME 15 //Minutes
 
 //Structure example to send data
 //Must match the receiver structure
@@ -70,7 +70,7 @@ typedef struct struct_message {
 struct_message myData;
 
 //MAC Address of the receiver
-uint8_t broadcastAddress[] = {0x30, 0xAE, 0xA4, 0xDF, 0xB3, 0x6C};   //------------Receiver MAC address?-----------------------------
+uint8_t broadcastAddress[] = {0x30, 0xAE, 0xA4, 0xDF, 0xB3, 0x6C};   
 
 //BME280
 
