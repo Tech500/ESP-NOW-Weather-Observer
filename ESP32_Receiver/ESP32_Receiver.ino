@@ -1,6 +1,6 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //
-//                       I:\Keep for work --ESP Now\ESP32_Receiver --wip
+//                       I:\Keep for work --ESP Now\ESP32_Receiver --wip  Modification of earlier project to use ESP-Now
 //
 //                       Version 1.0 "ESP32_Receiver.ino"  03/08/2022 @ 00:55 EST Developed by William  M. Lucid, tech500
 //                      
@@ -10,7 +10,7 @@
 //
 //                       listFiles and readFile functions by martinayotte of ESP8266 Community Forum.  readFile function modified by RichardS of ESP8266 Community Forum for ESP32.
 //
-//                       Time keeping functions uses NTP Time.
+//                       Time keeping functions uses NTP Time. 
 //
 //                       GPS and rain gauge code developed by Muhammad Haroon.  Thank you Muhammad.
 //
@@ -24,6 +24,7 @@
 //
 //                       Note:  Uses esp32 core by ESP32 Community version 1.0.4 from "Arduino IDE, Board Manager"   Arduino IDE; use Board:  "Node32s" for the "HiLetGo" ESP32 Board.
 //
+//                       Note:   ESP-Now project is not online via Internet; currently.
 //
 ///////////////////////////////////////////////////////////////////////////////////////////////////////
 
