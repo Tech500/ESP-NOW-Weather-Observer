@@ -47,7 +47,7 @@ float gpslng = -85.99406;
 
 
 //webInterface --send Data to Domain, hosted web site
-const char * sendData = "https://observations-weather.000webhostapp.com/collectdata2.php";
+const char * sendData = "Replace-with-your-domain-server/collectdata2.php";
 
 //FTP Credentials
 const char * ftpUser = "techno";
