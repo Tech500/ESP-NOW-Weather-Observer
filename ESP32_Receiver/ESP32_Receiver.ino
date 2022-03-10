@@ -65,8 +65,8 @@
 //const char* host;
 
 // Replace with your network credentials (STATION)
-const char* ssidStation = "R2D2";
-const char* passwordStation = "sissy4357";
+const char* ssidStation = "xxxxx";
+const char* passwordStation = "xxxxxxxx";
 
 // ACCESS POINT credentials
 const char* ssidAP = "ESP32-Access-Point";
@@ -74,10 +74,6 @@ const char* passwordAP = "123456789";
 
 // Wi-Fi channel for the access point (must match the sender channel)
 #define CHAN_AP 9
-
-// Replace with your network details
-//const char* ssid;
-//const char* password;
 
 #import "index1.h"  //Weather HTML; do not remove
 
